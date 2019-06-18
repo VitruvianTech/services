@@ -5,3 +5,4 @@ export * as sections from './sections';
 export * as headers from './headers';
 
 // Include bundle specific namespaces:
+export * as modals from './modals';
